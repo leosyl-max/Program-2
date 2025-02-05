@@ -1,5 +1,3 @@
-//wap to print the numbers in vertical order (using pointers)where the numbers of an array are reversed through size of the array i/p: arr[12345]//
-
 #include <stdio.h>
 #include <conio.h>
 
